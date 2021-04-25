@@ -1,0 +1,3 @@
+[submodule "firmware/picmodules"]
+	path = firmware/picmodules
+	url = git@github.com:joserb/picmodules.git
